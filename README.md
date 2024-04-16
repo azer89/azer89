@@ -3,7 +3,7 @@
 </a>
 
 
-I'm a software developer with a passion for art and graphics programming. I am currently working on a [3D rendering engine](https://github.com/azer89/HelloVulkan) using Vulkan and C++. I am also currently exploring DirectX 12 as well.
+I'm a software developer with a passion for art and graphics programming. My current project is a [3D rendering engine](https://github.com/azer89/HelloVulkan) using Vulkan and C++. I'm also currently exploring DirectX 12 as well.
 
 [LinkedIn](https://www.linkedin.com/in/reza-uw/)
 

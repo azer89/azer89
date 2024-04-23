@@ -9,4 +9,4 @@ I'm a software developer with a passion for art and graphics programming. My cur
 
 [Website](https://www.reza.graphics/)
 
-<img height="75" alt="Hello" src="https://github.com/azer89/azer89/assets/790432/ea146f25-3344-49fe-a84e-6137845eca90">
+<img height="75" alt="Hello" src="https://github.com/azer89/azer89/assets/790432/add0baf1-d1ed-4875-86a6-2326bbad1a2c">

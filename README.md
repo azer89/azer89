@@ -3,7 +3,7 @@
 </a>
 
 
-I'm a software developer with a passion for art and graphics programming, mostly dabbling with Vulkan and DirectX 12.
+I'm a software developer with a passion for art and graphics programming, currently dabbling with Vulkan and DirectX 12.
 
 [LinkedIn](https://www.linkedin.com/in/reza-uw/)
 
